@@ -1,0 +1,9 @@
+La carpeta base_de_datos contiene todo el código utilizado para la extracción de datos desde la api de Toteat,
+la conexión a la base de datos de MySQL alojada en AWS, la creación de las distintas tablas y la ingesta de datos.
+Resumen de cada archivo/carpeta:
+* conexion_api: código para la extracción de datos a través de la api y transformación de los mismos para posterior separación en tablas.
+* conexión_bbdd: código para conectar a AWS, crear las diferentes tablas y hacer la ingesta de datos.
+* archivos_csv: carpeta que contiene los diferentes archivos csv que se guardaron en conexion_api, estos archivos se pueden consultar
+  para ver posibles mejoras en la normalización de los datos.
+* recaudación_diaria: código para obtener la recaudación diaria de un periodo de tiempo determinado.
+* modificación_precios: código para modificar los precios de los productos (en proceso...)

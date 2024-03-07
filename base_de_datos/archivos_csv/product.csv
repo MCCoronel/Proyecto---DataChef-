@@ -1,0 +1,575 @@
+id,name,net_price,hierarchy_id
+9050,Hamburguesa Americana🥓,6990.0,AB.410
+TOTEATDVYCOST,Costo Delivery,3213.0,AB.
+1090,Mexa Grande,5990.0,AB.010
+1050,Cheese and bacon Grande,5990.0,AB.010
+1920,Pollo albahaca grande ,5990.0,AB.010
+1180,Hamburguesa Clasica,6990.0,AB.020
+1490,2 Burgers + 2 Bebidas,11399.0,AB.008
+50020,Americana P,0.0,AB.008
+50050,Hot burger P,0.0,AB.008
+60000,Coca cola promos,0.0,AB.008
+60010,Coca cola sin azucar promos,0.0,AB.008
+1230,Salsa picante,300.0,AB.040
+1110,Mechada BBQ Grande,5990.0,AB.010
+1020,Beefie Standard,4990.0,AB.010
+1080,Mexa Standard,4990.0,AB.010
+1170,Choclo & champiñón Grande,5290.0,AB.010
+1070,Veggie Grande,5290.0,AB.010
+1690,Hamburguesa  Americana,6290.0,AB.020
+9150,Beefie.,4490.0,AB.400
+mer2,Grande 450g aprox,1000.0,BA.500
+9090,Mechada bbq,4490.0,AB.400
+1310,Choclo & champiñón,900.0,AB.040
+GETJUSTOEX0035,Aparte,0.0,AB.040
+1350,Lemon Garlic,300.0,AB.040
+9130,Cheese and bacon ,4490.0,AB.400
+mer01,Standard 300gr aprox.,0.0,BA.500
+7010,Plan perfecto🤩: 2 Burgers + 2 Bebidas !!,12990.0,AB.420
+6000,Clásica 🍔,0.0,BA.510
+6150,Coca cola sin azucar,0.0,BA.520
+6030,Americana 🥓,0.0,BA.510
+1000,Single fries Standard,2990.0,AB.010
+1220,Chicken Box S,4490.0,AB.030
+400000,Coca cola CBS,0.0,AB.030
+7000,2 Papas grandes + 2 bebidas 💛!!,11990.0,AB.420
+6310,Cheese and bacon ,0.0,BA.530
+6330,Chicken curry,0.0,BA.530
+6140,Coca cola original,0.0,BA.520
+6350,Veggies,0.0,BA.530
+6120,Sprite,0.0,BA.520
+6110,Jugo Durazno ,0.0,BA.520
+1030,Beefie Grande,5290.0,AB.010
+1040,Cheese and bacon Standard,4290.0,AB.010
+6320,Mechada bbq,0.0,BA.530
+6160,Jugo de piña,0.0,BA.520
+1360,Honey Mustard,300.0,AB.040
+1340,Salsa de la casa,300.0,AB.040
+9070,Hamburguesa clásica ,6490.0,AB.410
+9160,Choclo champiñón ,4490.0,AB.400
+9120,Veggies,4490.0,AB.400
+1600,Only Chicken,5990.0,AB.030
+6360,Mexa,0.0,BA.530
+6300,Beefie,0.0,BA.530
+1610,Chicken Box Familiar,12990.0,AB.030
+60090,Sprite.,0.0,AB.030
+60100,Coca cola original 350ml.,0.0,AB.030
+60110,Coca cola sin azucar.,0.0,AB.030
+1590,Pollo albahaca,4490.0,AB.400
+1460,2 Papas Grandes + 2 Bebidas,11990.0,AB.008
+40010,Sabor cheese & bacon ,0.0,AB.008
+40040,Sabor chicken curri,0.0,AB.008
+9140,Mexa ,4490.0,AB.400
+9110,Single fries ,3290.0,AB.400
+1280,Bacon,900.0,AB.040
+1060,Veggie Standard,4990.0,AB.010
+GETJUSTOEX0062,Mechada BBQ,0.0,BA.260
+GETJUSTOEX0059,Cheese and bacon,0.0,BA.260
+1130,Chicken Curry Grande,5990.0,AB.010
+1240,Crema acida,300.0,AB.040
+GETJUSTOEX0058,Beefie,0.0,BA.260
+1380,Coca Cola sin azúcar,1400.0,AB.050
+1290,Pebre,900.0,AB.040
+GETJUSTOEX0018,Jugo Durazno Del Valle,0.0,BA.200
+60120,Jugo de durazno 300ml.,0.0,BA.360
+60130,Jugo de piña 300ml.,0.0,BA.360
+1940,Pollo albahaca standard,4990.0,AB.010
+GETJUSTOEX0065,Choclo & Champiñón,0.0,BA.260
+1260,Beefie,900.0,AB.040
+GETJUSTOEX0034,En las papas,0.0,BA.310
+6370,Choclo champiñon,0.0,BA.530
+6200,Agua con gas 600ml,0.0,BA.520
+1010,Single fries Grande,4490.0,AB.010
+1270,Cheddar,900.0,AB.040
+1100,Mechada BBQ Standard,4990.0,AB.010
+400010,Coca  cola sin azucar CBS,0.0,AB.030
+6010,Hot burger 🔥,0.0,AB.420
+400020,Jugo de durazno CBS,0.0,AB.030
+1160,Choclo & champiñón Standard,4990.0,AB.010
+1200,Hamburguesa Vegetariana,7990.0,AB.020
+1210,Hamburguesa Vegana,7990.0,AB.020
+GETJUSTOEX0036,Clásica,0.0,BA.230
+500001,Vegetariana P,0.0,BA.230
+60080,Fanta.,0.0,BA.360
+GETJUSTOEX0033,En la hamburguesa,0.0,BA.310
+1370,Coca Cola Original,990.0,AB.050
+1390,Fanta,990.0,AB.050
+1250uber,Pollo albahaca ,4690.0,AB.100110
+uber1600,Only Chicken.,6390.0,AB.100115
+UBEREATS0003,Cheese and bacon,4690.0,AB.100110
+UBEREATSEX0003,Standard Cheese and bacon,0.0,BA.030
+UBEREATS0010,Hamburguesa clasica,6690.0,AB.100120
+1790,Hamburguesa Americana ,6890.0,AB.100120
+UBEREATS0002,Beefie,3790.0,AB.100110
+UBEREATSEX0002,Standard Beefie,0.0,BA.020
+400040,Fanta CBS,0.0,AB.030
+GETJUSTOEX0064,Vegan,0.0,BA.260
+6100,Fanta.,0.0,BA.520
+1510,Plan perfecto🤩: 2 Burgers + 2 Bebidas !!,11990.0,AB.070
+500000,Clásica P,0.0,AB.070
+60020,Fanta promos,0.0,AB.070
+60060,Jugo de durazno promos,0.0,AB.070
+GETJUSTOEX0015,Sprite,0.0,BA.200
+10150,Fanta Uva 355ml,0.0,BA.200
+UBEREATS0012,Hamburguesa vegetariana,6990.0,AB.100120
+UBEREATS0009,Choclo y champiñón,4290.0,AB.100110
+UBEREATSEX0018,Grande Choclo y champiñón,0.0,BA.090
+GETJUSTOEX0013,Coca Cola sin azúcar 350ml,0.0,BA.200
+400050,Sprite CBS,0.0,AB.030
+uber1610,Chicken box.,5240.0,AB.100115
+uberbox20,Coca cola sin azucar 350ml ,0.0,BA.370
+UBEREATSEX0012,Grande Cheese and bacon,250.0,BA.030
+uberbox10,Coca cola 350ml,0.0,BA.370
+6050,Vegetariana 🌱based,0.0,AB.420
+UBEREATS0006,Mechada barbecue,4290.0,AB.100110
+UBEREATSEX0006,Standard Mechada barbecue,0.0,BA.060
+UBEREATS0001,Single fries,2490.0,AB.100110
+UBEREATSEX0001,Standard Single fries,0.0,BA.010
+UBEREATS0025,Coca-Cola,400.0,AB.100140
+1700,Hot Burger,7490.0,AB.020
+GETJUSTOEX0016,Sprite Zero,0.0,BA.200
+1730,Coca cola sin azucar,650.0,AB.100140
+GETJUSTOEX0014,Fanta,0.0,BA.200
+1330,Chicken curry,900.0,AB.040
+UBEREATSEX0009,Standard Choclo y champiñón,0.0,BA.090
+UBEREATSEX0011,Grande Beefie,1000.0,BA.020
+UBEREATS0007,Chicken curry,4540.0,AB.100110
+UBEREATSEX0016,Grande Chicken curry,250.0,BA.070
+GETJUSTOEX0012,Coca Cola Original 350ml,0.0,BA.200
+1300,Guacamole,900.0,AB.040
+6340,Pollo albahaca,0.0,BA.530
+GETJUSTOEX0061,Mexa,0.0,BA.260
+UBEREATS0014,Cheddar,900.0,AB.100130
+2280,2 Hamburguesas  con papas + 2 bebidas 💛💛,11890.0,AB.105
+1710,Americana eats,0.0,BA.325
+1190,Clásica eats,0.0,BA.325
+2240,Coca cola original 350ml,0.0,BA.326
+2260,Jugo  de durazno 30ml,0.0,BA.326
+UBEREATSEX0015,Grande Mechada barbecue,250.0,BA.060
+60030,Sprite promos ,0.0,AB.070
+GETJUSTOEX0063,Chicken curry,0.0,BA.260
+GETJUSTOEX0057,Single,0.0,BA.260
+UBEREATSEX0010,Grande Single fries,1000.0,BA.010
+UBEREATSEX0007,Standard Chicken curry,0.0,BA.070
+GETJUSTOEX0060,Veggies,0.0,BA.260
+9030,Hot Burger 🔥,6990.0,AB.410
+9020,Hamburguesa Vegetariana not burger  🌱,7490.0,AB.410
+UBEREATS0004,Veggies,4123.0,AB.100110
+UBEREATSEX0004,Standard Veggies,0.0,BA.040
+2250,Coca sin azúcar 350ml,0.0,BA.326
+2360,2 Papas grandes + 2 bebidas =😍🍟,8490.0,AB.105
+2290,Cheese & bacon  grande eats,0.0,BA.330
+2350,Veggies grande eats,0.0,BA.330
+2270,Fanta 350ml,0.0,BA.326
+1400,Sprite,990.0,AB.050
+2370,Choclo & champiñón grande eats,0.0,BA.330
+2340,Mexa grande eats,0.0,BA.330
+TOTEATDVYERROR,ERR PEDIDOSYA: Hamburguesa Vegetariana,7990.0,AB.
+1120,Chicken Curry Standard,5290.0,AB.010
+400060,Agua con gas CBS,0.0,AB.030
+GETJUSTOEX0019,Agua Sin Gas Vital,0.0,BA.200
+UBEREATS0005,Mexa,3540.0,AB.100110
+UBEREATSEX0014,Grande Mexa,0.0,BA.050
+1990,Hot burger eats,0.0,BA.325
+UBEREATS0023,Salsa garlic mayo,300.0,AB.100130
+uberbox30,Fanta 350ml ,0.0,BA.370
+9040,Hamburguesa Vegana not burger,7490.0,AB.410
+UBEREATSEX0013,Grande Veggies,0.0,BA.040
+UBEREATS0021,Salsa de la casa ,0.0,AB.100130
+UBEREATS0017,Guacamole,0.0,AB.100130
+2330,Pollo albahaca grande eats,0.0,BA.330
+2310,Mechada bbq grande eats,0.0,BA.330
+6040,Vegana 🌱,0.0,AB.420
+UBEREATS0015,Bacon,0.0,AB.100130
+1720,Hamburguesa vegana,6215.0,AB.100120
+4000,2 Papas grandes + 2 bebidas =💛,10990.0,AB.070
+40050,Sabor pollo albahaca ,0.0,AB.070
+UBEREATS0024,Honey mustard,0.0,AB.100130
+40030,Sabor Mechada,0.0,AB.070
+1970,Tradición,990.0,AB.490
+cafe1000,Chico,0.0,BA.105
+1150,Vegan Grande,5290.0,AB.010
+UBEREATSEX0005,Standard Mexa,0.0,BA.050
+1320,Vegetales salteados,900.0,AB.040
+50030,Vegana P,0.0,AB.070
+4000030,Jugo de piña CBS,0.0,AB.030
+GETJUSTOEX0017,Jugo Piña Del Valle,0.0,BA.200
+2300,Beefie grande eats,0.0,BA.330
+UBEREATS0020,Choclo y champiñón,900.0,AB.100130
+UBEREATS0022,Salsa picante,300.0,AB.100130
+UBEREATS0016,Pebre,900.0,AB.100130
+2320,Chicken curry grande eats,0.0,BA.330
+1800,Hot burger 🔥,4490.0,AB.100120
+60070,Jugo de piña promos,0.0,AB.070
+UBEREATS0027,Sprite,0.0,AB.100140
+40080,Sabor choclo champi,0.0,AB.070
+1550,Hamburguesa Vegetariana (porotos quinoa),7489.9,AB.020
+9000,VegaN,4490.0,AB.400
+GETJUSTO0018,Love is in the fries,4990.0,AB.420
+40000,Sabor beefie ,0.0,AB.070
+1650,Jugo Durazno  300ml,1190.0,AB.050
+uberbox40,Sprite 350ml ,0.0,BA.370
+GETJUSTOEX0020,Agua Con Gas Vital,0.0,BA.200
+1500,Combo del mes ,5990.0,AB.420
+60040,Agua con gas promos,0.0,AB.070
+1950,Vainilla ,0.0,AB.490
+UBEREATS0026,Fanta.,1400.0,AB.100140
+2500,Whisky,0.0,AB.075
+6610,Jack Honny,6590.0,AB.075
+2590,Austral Lager,3590.0,AB.080
+2470,Cocteles de autor ,0.0,AB.075
+6390,Sandi  Spritz,6990.0,AB.075
+6410,Calypso,6990.0,AB.075
+2610,Kunstman Torobayo,3590.0,AB.080
+6590,Jhonnie Walker Black Label ,6990.0,AB.075
+2630,Jugos y limonadas ,0.0,AB.075
+6840,Limonada Menta Jengibre,3290.0,AB.075
+6380,Chuao Shop,6990.0,AB.075
+6420,Carnavalera,6990.0,AB.075
+2480,Nuestros clàsicos,0.0,AB.075
+6470,Pisco Sour,4990.0,AB.075
+6490,Margarita,4990.0,AB.075
+2530,Gin,0.0,AB.075
+6690,Bombay Sapphire,6490.0,AB.075
+2550,Licores ,0.0,AB.075
+6740,Jagermeister,5990.0,AB.075
+6500,Mojito,4990.0,AB.075
+2520,Pisco,0.0,AB.075
+6650,Mistral 35,4490.0,AB.075
+6440,Ramazzotti Spritz,2589.0,AB.075
+6870,Jugo de frambuesa,1422.0,AB.075
+2490,Ron ,0.0,AB.075
+6560,Flor de Caña 12 años,2156.0,AB.075
+6400,Solsticio,6990.0,AB.075
+6580,Habana Club 7 años ,6990.0,AB.075
+6430,Aperol Spritz,5990.0,AB.075
+6540,Caipiriña,5990.0,AB.075
+6630,Alto del Carmen 35,4490.0,AB.075
+6850,Limonada menta,3290.0,AB.075
+6660,Mistal 40,4490.0,AB.075
+2620,Kunstman Sin Filtrar,3590.0,AB.080
+2230,Vegana eats ,0.0,BA.325
+2560,Tonicas Premium,0.0,AB.075
+6810,Fentimans Original,1990.0,AB.075
+6680,Beefeater ,6490.0,AB.075
+6450,St Germain Spritz,0.0,AB.075
+2210,Vegetariana eats ,0.0,BA.325
+6860,Jugo de mango,3290.0,AB.075
+2600,Austral Calafate,3590.0,AB.080
+2580,Heiniken,0.0,AB.080
+6820,Fentimans Rose	,0.0,AB.075
+6550,Espresso Martini,5990.0,AB.075
+2640,kunstman 500ml,4250.0,AB.080
+6480,Tom Collins ,4990.0,AB.075
+2510,Vodka,0.0,AB.075
+6620,Stolychnaya,5990.0,AB.075
+6460,Moscow Mule,7490.0,AB.075
+6890,Jugo de maracuya,3290.0,AB.075
+UBEREATS0013,Beefie ,0.0,AB.100130
+1660,Jugo de Piña 300ml,1190.0,AB.050
+6600,Jack Daniels N7,6590.0,AB.075
+1640,Agua con Gas,1290.0,AB.050
+6800,Fernet Branca,5490.0,AB.075
+1630,Agua SIN GAS,1290.0,AB.050
+6670,Hendricks Original,7490.0,AB.075
+6880,Negroni,5990.0,AB.075
+2540,Tequila,0.0,AB.075
+6730,Herradura Transparente,6490.0,AB.075
+2660,Botella Carmenere bicicleta,12990.0,AB.075
+2650,Schop heineken,2990.0,AB.085
+6510,Cosmopolitan,5990.0,AB.075
+2670,Schoops,2990.0,AB.085
+6900,Chelada ,500.0,AB.085
+6910,Michelada ,335.0,AB.085
+6570,Old Fashioned ,4612.0,AB.075
+1670,Agua sin Gas,0.0,AB.050
+6520,Dry Martini,5990.0,AB.075
+6830,Fentimans Ginger Beer	,1990.0,AB.075
+6710,Jimador,5990.0,AB.075
+2680,SCHOP X 2 + MEXA GRAN DE,0.0,AB.085
+6640,Chivas Regal,7990.0,AB.075
+2460,Ginger Ale Light,1290.0,AB.050
+6720,Herradura Reposado,6490.0,AB.075
+400070,Agua sin gas CBS,0.0,AB.030
+1540,Hamburguesa Vegana (porotos quinoa),7490.0,AB.020
+2910,Red bull,1990.0,AB.050
+2690,2x1 Caipiri'a,5990.0,AB.075
+6750,Campari,5590.0,AB.075
+40070,Sabor veggies ,0.0,AB.070
+7020,Ballantine's ,4990.0,AB.075
+2920,Pisco Mistral Barrica tostada,0.0,AB.090
+2930,Doble carne,0.0,AB.040
+6960,Doble carne ,1990.0,AB.020
+2440,Coca Cola Light,1290.0,AB.050
+2940,2x1 Sandy Spritz,7990.0,AB.075
+2960,Arroz chaufa,5490.0,AB.095
+2950,Tallarines salteados ,5490.0,AB.095
+6980,Jack daniels apple ,6590.0,AB.075
+2970,Lomo salteado ,6590.0,AB.095
+6970,Jhonnie W Black DOBLE,11990.0,AB.075
+6990,Jim beam bourbon ,5990.0,AB.075
+2990,Tubinger Summer ale ,3490.0,AB.085
+3090,Tubinger Irish red ale,3490.0,AB.085
+7150,Tarapaca leon ,10990.0,AB.075
+3100,2 Mojitos x6990,6990.0,AB.075
+3120,Brownie con helado artesanal,5990.0,AB.280
+2890,Havana club especial,55759.0,AB.090
+3160,2  Ramazzotti,6570.0,AB.075
+9100,Chicken curry,4990.0,AB.400
+3230,Piscola Happy,4990.0,AB.073
+3180,"Hamburguesa italiana con papas fritas (Mayo, palta, lechuga , tomate )",7990.0,AB.020
+7180,Jugo de melon ,3290.0,AB.075
+7220,Mistral Nobel,5990.0,AB.075
+3110,Tragos dobles,0.0,AB.075
+7210, Habana  7 doble ,9990.0,AB.075
+7230,Tanqueray,7490.0,AB.075
+7120,Mistral 35,7990.0,AB.075
+3240,Piscosour happy,4990.0,AB.073
+7240,Cacique,4990.0,AB.075
+3210,Caipiri;a happy,5990.0,AB.073
+3150,2 Cosmopolitan x 7990,7332.0,AB.072
+3220,Cosmopolitan happy,5990.0,AB.073
+7290,Jose cuervo,5990.0,AB.075
+3250,Mojitos Happy,4990.0,AB.073
+7300,Monje negro,5990.0,AB.075
+3270,Schop kunstman torobayo,3990.0,AB.085
+7310,ESPIRITU DE LOS ANDES ,8990.0,AB.075
+6790,Martini Bianco,4990.0,AB.075
+3260,CUSQUENA,3590.0,AB.080
+2080,Margarita,5990.0,AB.075
+3290,Tallarin saltado carne+ bebida ,7490.0,AB.095
+3310,Pollo saltado+bebida,6490.0,AB.095
+3280,2 SCHOP KUNSTMAN,6490.0,AB.085
+7320,PINA COLADA ,5990.0,AB.075
+7330,Medalla,18990.0,AB.075
+7170,Miguel Tores gran reserva ,22990.0,AB.075
+3330,Tarapaca reserva ,18990.0,AB.090
+3320,Arroz chaufa carne+ bebida ,7490.0,AB.095
+7200,Daikiri,4990.0,AB.075
+7160,Tarapaca reserva,13990.0,AB.075
+3350,RED BULL,2990.0,AB.075
+7260,Habana especial,5990.0,AB.075
+uberbox50,Agua con gas 600ml,0.0,BA.370
+2840,Pisco mistral de 40; 750ml,40299.0,AB.090
+2770,Jhonnie Wlaker Black label 750ml,62737.0,AB.090
+3360,BLUE MOON,3590.0,AB.080
+7340,Espiritu de los andes ,6990.0,AB.075
+3400,Vegetariana,7990.0,AB.125
+3380,Clasica ,6490.0,AB.125
+3370,Americana SP,0.0,AB.125
+3170,2 Pisco sour,8990.0,AB.072
+3410,Vegana,7990.0,AB.125
+7190,Amaretto sour,4990.0,AB.075
+3390,Hot burger SP,5157.0,AB.125
+40060,Sabor mexa ,0.0,AB.070
+7360,Atardecer,7990.0,AB.075
+7370,Kalua ,4990.0,AB.075
+7380,Jack fire,6590.0,AB.075
+7390,drambui,4990.0,AB.075
+4510,2 Hamburguesas por 7990,7990.0,AB.500
+10440,Americana sin papas,0.0,BA.750
+10390,Clásica sin papas,0.0,BA.750
+6210,Agua con gas 600ml,0.0,BA.520
+1740,Jugo de durazno 300ml,1890.0,AB.100140
+3480,Mojitos ,0.0,AB.075
+7440,Mojito frutos rojos,6990.0,AB.075
+3520,Te caliente ,2990.0,AB.075
+7420,maracuya 750,750.0,AB.075
+7410,Mojito maracuya,5990.0,AB.075
+3530,Cocteles nuevos ,0.0,AB.075
+7470,Tropical gin,5990.0,AB.075
+7400,Mojito tradicional,4990.0,AB.075
+7430,Mojito Mango,5990.0,AB.075
+7125,Mistral 40,7990.0,AB.075
+7450,Mojito coco,6990.0,AB.075
+3540,Hamburguesa + Schop Royal,0.0,AB.060
+7510,Hot SP+ Royal,4990.0,AB.060
+7530,Americana SP+ Royal ,4990.0,AB.060
+7350,Clavo oxidado,7990.0,AB.075
+7500,Clasica SP + Royal,4990.0,AB.060
+7520,Vegetariana SP+ Royal,4990.0,AB.060
+2450,Sprite Zero,1290.0,AB.050
+3620,Red bull,0.0,AB.060
+3550,2 SCHOP CALAFATE,8000.0,AB.085
+3560,Schop calafate ,4590.0,AB.085
+3640,Misiones de rengo espumante ,14990.0,AB.090
+3610,Agua sin gas ,4000.0,AB.060
+7480,Boulevardien,5990.0,AB.075
+3570,Mistral 35,4500.0,AB.060
+3630,Gatorade ,4000.0,AB.060
+7540,PREMUIM MARGARITA ,0.0,AB.075
+6760,Cinzano Rosso,4990.0,AB.075
+10430,Hot sin papas,0.0,BA.750
+3580,Ramazzotti,5990.0,AB.060
+7460,Bramble,892.0,AB.075
+3660,MOJITO SABORES Y TRADICIONAL,6590.0,AB.060
+3710,PISCOLA 40 ,4990.0,AB.060
+3830,J.W BLACK LABEL,7690.0,AB.060
+3900,BUCHANANS,7690.0,AB.060
+3920,CACIQUE 500,5490.0,AB.060
+3990,MORADO PALL MALL,1000.0,AB.065
+4040,CAJA MORADO PALL MALL,9000.0,AB.065
+3750,SCHOP HEINEKEN,4690.0,AB.060
+3650,RAMAZZOTTI,6590.0,AB.060
+3880,OLD PARR,7690.0,AB.060
+3850,J.D HONEY,7690.0,AB.060
+3770,SCHOP CALAFATE,5690.0,AB.060
+3740,MARGARITA HERRADURA,0.0,AB.060
+4030,CHICLE,4000.0,AB.065
+3680,TROPICAL GIN,6590.0,AB.060
+3810,GIN BOMBAY,6990.0,AB.060
+3780,JAGERMEISTER+RED BULL,7190.0,AB.060
+3800,GIN HENDRICKS,6990.0,AB.060
+3860,J.D APPLE,7690.0,AB.060
+3840,J.D 7,7690.0,AB.060
+3690,SANDY SPRITZ,7690.0,AB.060
+3910,CAIPIRIÑA,6590.0,AB.060
+4050,CAJA VERDE PALL MALL,9000.0,AB.065
+3590,J.W RED LABEL,7690.0,AB.060
+3700,PISCOLA 35,4990.0,AB.060
+3930,HABANA ESPECIAL,6590.0,AB.060
+3760,SCHOP HEINEKEN CHELADO,5190.0,AB.060
+9010,Hamburguesa Vegana (porotos quinoa),7490.0,AB.410
+4120,2 papas grandes * $11990,11990.0,AB.420
+4100,PAPA + SCHOP HEINEKEN ,9990.0,AB.006
+4110,TERREMOTO,4990.0,AB.006
+10,2 Burger + Papas Grandes,14990.0,AB.420
+3890,HABANA 7,7690.0,AB.060
+4140,Jalapeños,1290.0,AB.040
+3670,APEROL,0.0,AB.060
+3950,HERRADURA,2137.0,AB.060
+7490,Baileys,5990.0,AB.075
+4150,GIN ROSE LEMONADE,14990.0,AB.006
+7690,Nitantiki,6990.0,AB.075
+7710,Buchanans,6990.0,AB.075
+4230,Clásica ,8990.0,AB.520
+4350,Choclo champiñón ,0.0,AB.530
+4420,Original burger con papas fritas,11990.0,AB.100120
+4490,RAMAZZOTTI IGNACIA,0.0,AB.540
+4380,Mechada,0.0,AB.530
+7670,Para compartir (2-3personas),12990.0,AB.530
+4290,Fry chicken tutri,9990.0,AB.200240
+4270,Vegana ,8990.0,AB.520
+4360,Veggie,0.0,AB.530
+7650,Para 1,9990.0,AB.530
+4340,Beefie,0.0,AB.530
+4370,Cheese & bacon,0.0,AB.530
+4240,Americana ,8990.0,AB.520
+7660,Doble ,2000.0,AB.520
+4330,Single,0.0,AB.530
+4390,Mexa,0.0,AB.530
+4410,Pollo albahaca ,0.0,AB.530
+4300,Blueshop burger ,0.0,AB.200240
+4320,Hot burger,8990.0,AB.520
+7680,Sisi baileys,6990.0,AB.075
+7720,Candy,6990.0,AB.075
+4400,Chicken curry,0.0,AB.530
+7700,Basil,6990.0,AB.075
+4550,Original burger ,9990.0,AB.520
+4310,Italiana ,8990.0,AB.520
+4430,Fry chicken tutri,11990.0,AB.100120
+4440,Blueshop burger ,13990.0,AB.100120
+4180,Only Chicken ,7990.0,AB.510
+4260,Vegetariana ,8990.0,AB.520
+4570,fry chicken tutri,9990.0,AB.520
+3720,SOLSTICIO,7690.0,AB.060
+4560,Blue Shop burger ,5940.0,AB.520
+7740,Piña colada,5990.0,AB.075
+4200,Pulpo asado y papas ,0.0,AB.510
+4220,Ceviche mixto ,0.0,AB.510
+4580,Gatorade ,4490.0,AB.050
+7730,Caipiroska,6490.0,AB.075
+4590,melon con vino,4990.0,AB.075
+4170,Nachos ,6990.0,AB.510
+4210,Ceviche de reineta ,7490.0,AB.510
+4190,Tiraditos de salmón ,0.0,AB.510
+4620,GATORADE ,0.0,AB.075
+4600,AGUA ,3490.0,AB.075
+4610,CERVEZA DE BOTELLA ,3590.0,AB.075
+4630,Moscow mule promo,4990.0,AB.006
+4450,Original burger con papas fritas,9990.0,AB.020
+4160,Mix de empanaditas,6990.0,AB.510
+4680,Absolute,4990.0,AB.075
+8000,Promo destilados ,0.0,AB.550
+7750,2 Red label ,8990.0,AB.550
+7820,2 Gin bombay,8990.0,AB.550
+7910,2 mistral de 40,8990.0,AB.550
+7800,2 vodka absolute,8990.0,AB.550
+7760,2 Black label,8990.0,AB.550
+7900,2 mistral 35 ,8990.0,AB.550
+7830,2 beefeater ,8990.0,AB.550
+4460,Fry chicken tutri,9990.0,AB.020
+4650,Original SP,6990.0,AB.125
+4710,2Burgers sin papas+ 1 single grande ,14990.0,AB.070
+3420,Americana sin papas,0.0,AB.070
+7770,2 Jack apple,8990.0,AB.550
+2835,Pisco mistral de 35; 750ml,44900.0,AB.090
+1430,delivery 1,4975.0,AB.150
+3430,Clasica sin papas ,0.0,AB.070
+7551,MOJITO + SCHOP,7990.0,AB.006
+3450,Vegetariana sin papas ,500.0,AB.070
+7850,2 habana especial,8990.0,AB.550
+7780,2 Jack honey,8990.0,AB.550
+4660,Blue shop SP,7990.0,AB.125
+3440,Hot sin papas ,0.0,AB.070
+50,Blueshop Burger,10990.0,AB.020
+3460,Vegana sinpapas,500.0,AB.070
+7840,2 Cacique ,7192.0,AB.550
+4640,Caipiriña happy,8990.0,AB.072
+4690,Piscola happy,8990.0,AB.072
+7870,Old parr,6990.0,AB.075
+7880,mistral fire,6990.0,AB.075
+4740,Sol ,3590.0,AB.080
+4670,Fry chicken burger ,6990.0,AB.125
+4750,ENVASE PARA LLEVAR ,250.0,AB.006
+7890,absolute,5490.0,AB.075
+4760,a. LUNES: 2x1 coctel de autor,6990.0,AB.007
+4770,b. MARTES: 2X1 SPRITZ *,6490.0,AB.007
+4790,d. JUEVES: 2X1 PISCOLA DE 35,4490.0,AB.007
+4800,e. VIERNES : 2X1 Tropical gin,6990.0,AB.007
+4810,f. SABADO: GIN* O PISCOLA*,0.0,AB.007
+7920,Chambord spritz,6990.0,AB.075
+4780,c. MIERCOLES: 2X1 SCHOP HEINEKEN,4290.0,AB.007
+7640,Baileys,6490.0,AB.075
+7930,Premium amaretto disaronno sour,7990.0,AB.075
+7950,Spicy mango,6990.0,AB.075
+4130,Extra Shot ,2490.0,AB.040
+4820,c.1 MIERCOLES MOJITO MANGO 2X1,6690.0,AB.007
+7970,Piscola,4490.0,AB.007
+7990,Spritz ramazzotti,6490.0,AB.007
+7980,Mojito tradicional,6690.0,AB.007
+7960,Gin tonic ,5490.0,AB.007
+4830,g. DOMINGO 2X1,0.0,AB.007
+8010,Spritz aperol,6490.0,AB.007
+60050,Agua sin gas promos,0.0,AB.070
+8050,Mocktail,4990.0,AB.075
+4840,c. MIERCOLES MOJITOS 2X$8990,8990.0,AB.007
+8090,Frutos rojos,0.0,AB.007
+8080,Maracuya,0.0,AB.007
+8030,Tropical gin ,6990.0,AB.007
+8040,Sandi spritz ,6990.0,AB.007
+8120,Barrica tostada ,5490.0,AB.075
+UBEREATS0018,Curry,900.0,AB.100130
+40090,Sabor vegan,0.0,AB.070
+8070,Mango,0.0,AB.007
+8100,Tradicional,0.0,AB.007
+8110,Frutos rojos ,0.0,AB.007
+8060,Mojito coco mango,6690.0,AB.075
+4730,Descorche,14990.0,AB.006
+4850,b. MIERCOLES B+S ,7990.0,AB.007
+8140,Heineken,0.0,AB.007
+6060,Original sp,0.0,AB.007
+6080,Blue sp,0.0,AB.007
+8130,Heineken,0.0,AB.007
+8020,CALAFATE,3990.0,AB.007
+7860,paradise 2*8990,8990.0,AB.550
+2720,Jack Daniels honey 750ml,74990.0,AB.090
+2710,Jack Daniels #7 750ml,65900.0,AB.090
+2820,Beefeater gin 750ml,6490.0,AB.090
+4860,i. Papas 500gr,8990.0,AB.007
+3470,2 hamburguesas por 7990!!,7990.0,AB.135
+7561,tropical gin,8990.0,AB.007
+4870,corta corriente,8990.0,AB.007
+4880,piscolas ,5990.0,AB.007
+4890,golden ale,7990.0,AB.007
+2815,Bombay saphire gin 750ml,6490.0,AB.090
